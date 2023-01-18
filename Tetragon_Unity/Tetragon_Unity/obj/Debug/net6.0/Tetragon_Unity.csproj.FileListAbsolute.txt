@@ -1,0 +1,15 @@
+/Users/akihirof/Documents/Projects/Towers-Final_project/Tetragon_Unity/Tetragon_Unity/bin/Debug/net6.0/Tetragon_Unity
+/Users/akihirof/Documents/Projects/Towers-Final_project/Tetragon_Unity/Tetragon_Unity/bin/Debug/net6.0/Tetragon_Unity.deps.json
+/Users/akihirof/Documents/Projects/Towers-Final_project/Tetragon_Unity/Tetragon_Unity/bin/Debug/net6.0/Tetragon_Unity.runtimeconfig.json
+/Users/akihirof/Documents/Projects/Towers-Final_project/Tetragon_Unity/Tetragon_Unity/bin/Debug/net6.0/Tetragon_Unity.dll
+/Users/akihirof/Documents/Projects/Towers-Final_project/Tetragon_Unity/Tetragon_Unity/bin/Debug/net6.0/Tetragon_Unity.pdb
+/Users/akihirof/Documents/Projects/Towers-Final_project/Tetragon_Unity/Tetragon_Unity/obj/Debug/net6.0/Tetragon_Unity.csproj.AssemblyReference.cache
+/Users/akihirof/Documents/Projects/Towers-Final_project/Tetragon_Unity/Tetragon_Unity/obj/Debug/net6.0/Tetragon_Unity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akihirof/Documents/Projects/Towers-Final_project/Tetragon_Unity/Tetragon_Unity/obj/Debug/net6.0/Tetragon_Unity.AssemblyInfoInputs.cache
+/Users/akihirof/Documents/Projects/Towers-Final_project/Tetragon_Unity/Tetragon_Unity/obj/Debug/net6.0/Tetragon_Unity.AssemblyInfo.cs
+/Users/akihirof/Documents/Projects/Towers-Final_project/Tetragon_Unity/Tetragon_Unity/obj/Debug/net6.0/Tetragon_Unity.csproj.CoreCompileInputs.cache
+/Users/akihirof/Documents/Projects/Towers-Final_project/Tetragon_Unity/Tetragon_Unity/obj/Debug/net6.0/Tetragon_Unity.dll
+/Users/akihirof/Documents/Projects/Towers-Final_project/Tetragon_Unity/Tetragon_Unity/obj/Debug/net6.0/refint/Tetragon_Unity.dll
+/Users/akihirof/Documents/Projects/Towers-Final_project/Tetragon_Unity/Tetragon_Unity/obj/Debug/net6.0/Tetragon_Unity.pdb
+/Users/akihirof/Documents/Projects/Towers-Final_project/Tetragon_Unity/Tetragon_Unity/obj/Debug/net6.0/Tetragon_Unity.genruntimeconfig.cache
+/Users/akihirof/Documents/Projects/Towers-Final_project/Tetragon_Unity/Tetragon_Unity/obj/Debug/net6.0/ref/Tetragon_Unity.dll
